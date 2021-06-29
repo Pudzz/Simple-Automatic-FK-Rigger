@@ -1,4 +1,4 @@
-# Simple-Automatic-Rigger
+# Simple-Automatic-FK-Rigger
 A simple tool for automatic FK rigging in Autodesk Maya, made in Python. This is mostly done to speed up my own work when placing the controls and adding constraints between these and the joints.
 
 ### How to Use
